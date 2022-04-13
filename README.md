@@ -1,4 +1,4 @@
 # EQplotter
 Create earthquake reports for Turkey region
 
-<img src="example.png" width="600" height="480">
+<img src="example.png" width="635" height="368">
